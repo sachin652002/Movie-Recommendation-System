@@ -5,6 +5,10 @@ Movie Recommendation System built using AutoEncoders.It was trained on MovieLens
 
 # Requirements
 1.Python
+
 2.Streamlit
+
 3.Numpy
+
 4.Pandas
+
